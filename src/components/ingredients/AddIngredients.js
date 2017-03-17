@@ -4,7 +4,7 @@ export class AddIngredients extends Component {
   render(){
     return(
       <div>
-          Add More Ingredients
+          // <input onClick={this.onClick}
       </div>
     )
   }

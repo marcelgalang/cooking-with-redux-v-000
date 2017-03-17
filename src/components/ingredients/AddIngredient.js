@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import addIngredients from '../ingredients/addIngredients';
 
 export class AddIngredient extends Component {
   render(){
